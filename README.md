@@ -18,4 +18,4 @@
 
 ## Как открыть/запустить
 
-Клонировать https://github.com/KorenevVyacheslav/Task5_11 на свой ПК. Зайти в папку сайта в файловом менеджере, кликнуть 2 раза по файлу index.html.
+Клонировать https://github.com/KorenevVyacheslav/Task5_11 на свой ПК. Зайти в папку сайта в файловом менеджере, кликнуть 2 раза по файлу index.html. Или вставить в адресную строку браузера адрес https://korenevvyacheslav.github.io/Task5_11/.
